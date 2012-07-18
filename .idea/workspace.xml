@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="552e2c20-5269-4ae6-9b57-1d7edcc4daf7" name="Default" comment="" />
+    <list default="true" id="552e2c20-5269-4ae6-9b57-1d7edcc4daf7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="new_test.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="40" selection-start="3299" selection-end="3299" vertical-scroll-proportion="0.65384614">
+            <state line="87" column="36" selection-start="3391" selection-end="3395" vertical-scroll-proportion="0.65384614">
               <folding />
             </state>
           </provider>
@@ -182,7 +185,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="40" selection-start="3299" selection-end="3299" vertical-scroll-proportion="0.65384614">
+        <state line="87" column="36" selection-start="3391" selection-end="3395" vertical-scroll-proportion="0.65384614">
           <folding />
         </state>
       </provider>
